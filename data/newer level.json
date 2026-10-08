@@ -1,0 +1,18 @@
+{
+    "id": 57436521,
+    "name": "newer level",
+    "author": "LevelUploader",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "person",
+    "verification": "https://www.youtube.com/watch?v=S7JT_7nVEp0",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "person dude",
+            "link": "https://www.youtube.com/watch?v=S7JT_7nVEp0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+} 
